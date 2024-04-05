@@ -1,0 +1,23 @@
+.app {
+  text-align: center;
+}
+
+.container{
+  height: 99vh;
+  width: 99vw;
+  margin: auto;
+}
+
+.tag_btn{
+  position: absolute;
+  top: 25px;
+  right: 50%;
+  background-color: rgba(52, 52, 52, 0.4)
+}
+
+.drawer_btn{
+  position: absolute;
+  top: 25px;
+  right: 25px;
+  background-color: rgba(52, 52, 52, 0.4);
+}
