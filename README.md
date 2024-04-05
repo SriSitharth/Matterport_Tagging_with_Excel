@@ -8,8 +8,7 @@ Welcome to the repository for our Matterport Tagging project with Excel data int
     Excel Data Import: Implement functionality to import data from Excel files, such as tag information and associated metadata.
     Tagging Functionality: Enable users to tag specific locations within the Matterport models using data imported from Excel files.
     Dynamic Rendering: Dynamically render tags and associated metadata within the Matterport viewer based on the imported Excel data.
-    User Interaction: Allow users to interact with tags within the Matterport viewer, including selecting, editing, and deleting tags.
-    Export to Excel: Provide functionality to export tagged data back to Excel files for further analysis or sharing.
+    User Interaction: Allow users to interact with tags within the Matterport viewer.
 
 ## Getting Started
 
@@ -28,8 +27,6 @@ To get started with Matterport Tagging with Excel Data in React.js:
     Import Excel Data: Use the application to import data from Excel files containing tag information and associated metadata.
     Tagging: Tag specific locations within Matterport models using the imported Excel data, associating tags with relevant metadata.
     View Tags: View tags and associated metadata within the Matterport viewer, dynamically rendered based on the imported Excel data.
-    Edit Tags: Allow users to interact with tags within the Matterport viewer, including selecting, editing, and deleting tags as needed.
-    Export to Excel: Provide functionality to export tagged data, including modifications, back to Excel files for further analysis or sharing.
 
 ## Support
 
