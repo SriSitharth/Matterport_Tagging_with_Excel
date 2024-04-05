@@ -17,7 +17,6 @@ To get started with Matterport Tagging with Excel Data in React.js:
     Clone this repository to your local machine.
     Set up a development environment for React.js using Node.js and npm/yarn.
     Obtain access to the Matterport SDK and API documentation to understand how to integrate with the Matterport platform.
-    Customize the React.js components and application logic to implement tagging functionality and Excel data import/export features.
     Implement Excel data import functionality using libraries such as xlsx or exceljs to parse Excel files and extract relevant data.
     Integrate the Matterport SDK into the React.js application to load and interact with 3D models.
     Test the application locally to ensure functionality and responsiveness.
