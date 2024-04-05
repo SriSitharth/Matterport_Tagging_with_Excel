@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# Matterport Tagging with Excel Data in React.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the repository for our Matterport Tagging project with Excel data integration in React.js! This project aims to create a web-based application using React.js for tagging Matterport models with data imported from Excel files.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+    Matterport Integration: Utilize the Matterport SDK to load and interact with 3D models from Matterport's platform within the React.js application.
+    Excel Data Import: Implement functionality to import data from Excel files, such as tag information and associated metadata.
+    Tagging Functionality: Enable users to tag specific locations within the Matterport models using data imported from Excel files.
+    Dynamic Rendering: Dynamically render tags and associated metadata within the Matterport viewer based on the imported Excel data.
+    User Interaction: Allow users to interact with tags within the Matterport viewer, including selecting, editing, and deleting tags.
+    Export to Excel: Provide functionality to export tagged data back to Excel files for further analysis or sharing.
 
-### `npm start`
+## Getting Started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To get started with Matterport Tagging with Excel Data in React.js:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+    Clone this repository to your local machine.
+    Set up a development environment for React.js using Node.js and npm/yarn.
+    Obtain access to the Matterport SDK and API documentation to understand how to integrate with the Matterport platform.
+    Customize the React.js components and application logic to implement tagging functionality and Excel data import/export features.
+    Implement Excel data import functionality using libraries such as xlsx or exceljs to parse Excel files and extract relevant data.
+    Integrate the Matterport SDK into the React.js application to load and interact with 3D models.
+    Test the application locally to ensure functionality and responsiveness.
 
-### `npm test`
+## Usage
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    Import Excel Data: Use the application to import data from Excel files containing tag information and associated metadata.
+    Tagging: Tag specific locations within Matterport models using the imported Excel data, associating tags with relevant metadata.
+    View Tags: View tags and associated metadata within the Matterport viewer, dynamically rendered based on the imported Excel data.
+    Edit Tags: Allow users to interact with tags within the Matterport viewer, including selecting, editing, and deleting tags as needed.
+    Export to Excel: Provide functionality to export tagged data, including modifications, back to Excel files for further analysis or sharing.
 
-### `npm run build`
+## Support
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you encounter any issues or have questions during your usage of Matterport Tagging with Excel Data in React.js, feel free to reach out to the project owner or contributors for assistance.
